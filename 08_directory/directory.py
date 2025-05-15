@@ -34,7 +34,7 @@ for eleve in eleves.values():
 for eleve in eleves.items():
     print(eleve)
 
-# boucle qui affiche chaque information dans l'élément (la clef et la valeur) :
+# boucle qui affiche chaque information de l'élément (la clef et la valeur) :
 for prenom, moyenne in eleves.items():
     print(prenom, moyenne)
     # utilisation du f format : permet d'écrire du texte avec des variables en accolade
