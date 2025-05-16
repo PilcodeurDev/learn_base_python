@@ -1,4 +1,4 @@
-from random import randint
+
 
 #Exercice : Le juste prix
 # Choisir un nombre entre 1 et 1000
